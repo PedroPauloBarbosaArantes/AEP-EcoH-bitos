@@ -117,6 +117,7 @@ ecohabito/
 ## 🔐 Variáveis de Ambiente
 
 ### Backend
+Casa decida por usar PostgreSQL:
 ```properties
 # application.properties
 spring.datasource.url=jdbc:postgresql://localhost:5432/ecohabito
