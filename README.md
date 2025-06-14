@@ -1,6 +1,6 @@
-# EcoHábito - Sistema de Gestão de Tarefas Sustentáveis
+# EcoHábitos - Sistema de Gestão de Tarefas Sustentáveis
 
-O EcoHábito é uma aplicação web desenvolvida para promover práticas sustentáveis através de um sistema de tarefas e conquistas. A aplicação permite que os usuários registrem e acompanhem suas ações sustentáveis, ganhando pontos e desbloqueando conquistas ao longo do caminho.
+O EcoHábitos é uma aplicação web desenvolvida para promover práticas sustentáveis através de um sistema de tarefas e conquistas. A aplicação permite que os usuários registrem e acompanhem suas ações sustentáveis, ganhando pontos e desbloqueando conquistas ao longo do caminho.
 
 ## 🚀 Tecnologias Utilizadas
 
