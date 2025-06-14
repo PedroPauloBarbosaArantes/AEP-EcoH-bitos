@@ -17,14 +17,13 @@ O EcoHábito é uma aplicação web desenvolvida para promover práticas sustent
 - Java 17
 - Spring Boot 3
 - Spring Data JPA
-- PostgreSQL
+- H2
 - Maven
 
 ## 📋 Pré-requisitos
 
 - Node.js 18 ou superior
 - Java 17 ou superior
-- PostgreSQL 12 ou superior
 - Maven 3.6 ou superior
 
 ## 🔧 Instalação
